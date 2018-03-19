@@ -1,4 +1,6 @@
-Rough draft of a more sophisticated (and private) tool I use with which to synthesise documents.# Document synthesis
+Rough draft of a more sophisticated (and private) tool I use with which to synthesise documents.
+
+# Document synthesis
 
     make run
 
