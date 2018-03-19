@@ -4,7 +4,7 @@ Rough draft of a more sophisticated (and private) tool I use with which to synth
 
     make run
 
-Need more variation? Put more text prefabs in [docsynth/lib/assets/prefabs/text](docsynth/lib/assets/prefabs/text).
+Need more variation? Put more text prefabs in [lib/assets/prefabs/text](docsynth/lib/assets/prefabs/text).
 
 # Conda
 
